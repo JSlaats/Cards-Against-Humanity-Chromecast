@@ -1,3 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">FreakyFriday</string>
+
+    <string name="app_name">Cards against Fridays</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_winner">Who won, who\'s next? YOU DECIDE!.</string>
+    <string name="start_round">Start Round</string>
+    <string name="prompt_placeholder">A prompt will appear here.</string>
+    <string name="choose_chromecast">Connect to Chromecast to play.</string>
+    <string name="attempting_join">Attempting to join game&#8230;</string>
+    <string name="media_route_menu_title">Play on&#8230;</string>
+    <string name="player_queued_notice">You\'ve been queued.\nYou\'ll join the next round.</string>
+    <string name="waiting_for_round">You\'re in!\nStart the round when\neveryone\'s ready.</string>
+    <string name="button_next_round_label">Start Round</string>
+    <string name="waiting_for_judge">The judge is making\nhis or her decision.</string>
+    <string name="judge_waiting_for_submissions">Waiting for players\' submissions.\n(You\'re judging!)</string>
+    <string name="set_name_menu_title">Set Name</string>
+    <string name="button_play_cards">Play Cards</string>
+    <string name="app_id" >6C291416</string>
+
 </resources>
